@@ -1,10 +1,10 @@
-# Expense Tracker App
+# Expense Tracker 
 
 ![Expense Tracker App](/images/s1.png)
 
 ## Overview
 
-The Expense Tracker App is a web-based application designed to help users keep track of their expenses. It allows users to input their expenses with details such as category, amount, and date, and displays a list of expenses along with the total amount spent. Users can also delete individual expenses if needed.
+The Expense Tracker  is a web-based application designed to help users keep track of their expenses. It allows users to input their expenses with details such as category, amount, and date, and displays a list of expenses along with the total amount spent. Users can also delete individual expenses if needed.
 
 ## Features
 
