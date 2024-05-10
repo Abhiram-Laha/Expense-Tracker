@@ -1,6 +1,6 @@
 # Expense Tracker App
 
-![Expense Tracker App](screenshot.png)
+![Expense Tracker App](/images/s1.png)
 
 ## Overview
 
@@ -13,14 +13,11 @@ The Expense Tracker App is a web-based application designed to help users keep t
 - Display total amount of expenses.
 - Modern and stylish design.
 
-## Demo
-
-View a live demo [here](https://your-demo-link.com).
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot 1](/images/s2.png)
+![Screenshot 2](/images/s1.png)
 
 ## Installation
 
@@ -68,4 +65,16 @@ To run the Expense Tracker App locally, follow these steps:
 3.  Make changes to the HTML, CSS, or JavaScript files as needed.
     
 4.  Test your changes in a web browser.
+
+## Contact
+
+- **Email**: abhiramlaha2020@gmail.com
+- **LinkedIn**: (https://www.linkedin.com/in/abhiramlaha/)
+- **Twitter**: (https://twitter.com/LahaAbhiram)
+
+Feel free to reach out if you have any questions or just want to connect!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
